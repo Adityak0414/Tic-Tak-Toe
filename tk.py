@@ -137,9 +137,9 @@ def checkifwon():
       messagebox.showinfo("tic-tac-toe","YOU WON")
       disable_all_buttons()   
 #tie
-if count==9 and winner = false
-    messagebox.showinfo("tic_tak-toe","ITS A TIE")\
-     disable_all_buttons()  
+if count==9 and winner == False
+    messagebox.showinfo("tic_tak-toe","ITS A TIE")
+    disable_all_buttons()  
       
 #Button clicked
 def b_click(b):
